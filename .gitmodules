@@ -1,0 +1,15 @@
+[submodule "hades_xpanes"]
+	path = hades_xpanes
+	url = https://github.com/sfence/hades_xpanes
+[submodule "hades_glass_stained"]
+	path = hades_glass_stained
+	url = https://github.com/sfence/glass_stained
+[submodule "hades_clothing"]
+	path = hades_clothing
+	url = https://github.com/sfence/clothing
+[submodule "hades_default"]
+	path = hades_default
+	url = https://github.com/sfence/hades_default.git
+[submodule "hades_bucket"]
+	path = hades_bucket
+	url = https://github.com/sfence/hades_bucket.git
