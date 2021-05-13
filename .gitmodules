@@ -13,3 +13,6 @@
 [submodule "hades_bucket"]
 	path = hades_bucket
 	url = https://github.com/sfence/hades_bucket.git
+[submodule "hades_digtron"]
+	path = hades_digtron
+	url = https://github.com/sfence/digtron.git
