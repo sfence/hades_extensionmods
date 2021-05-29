@@ -19,3 +19,12 @@
 [submodule "hades_appliances"]
 	path = hades_appliances
 	url = https://github.com/sfence/appliances.git
+[submodule "hades_horse"]
+	path = hades_horse
+	url = https://github.com/sfence/mob_horse.git
+[submodule "hades_animal"]
+	path = hades_animal
+	url = https://github.com/sfence/mobs_animal.git
+[submodule "hades_extrafarming"]
+	path = hades_extrafarming
+	url = https://github.com/sfence/hades_extrafarming.git
