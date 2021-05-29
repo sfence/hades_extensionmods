@@ -28,3 +28,6 @@
 [submodule "hades_extrafarming"]
 	path = hades_extrafarming
 	url = https://github.com/sfence/hades_extrafarming.git
+[submodule "hades_craftguide2"]
+	path = hades_craftguide2
+	url = https://github.com/sfence/craftguide.git
