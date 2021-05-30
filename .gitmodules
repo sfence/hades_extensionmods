@@ -31,3 +31,6 @@
 [submodule "hades_craftguide2"]
 	path = hades_craftguide2
 	url = https://github.com/sfence/craftguide.git
+[submodule "hades_moreblocks"]
+	path = hades_moreblocks
+	url = https://github.com/sfence/moreblocks
