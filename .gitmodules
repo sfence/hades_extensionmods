@@ -34,3 +34,7 @@
 [submodule "hades_moreblocks"]
 	path = hades_moreblocks
 	url = https://github.com/sfence/moreblocks
+[submodule "hades_fachwerk"]
+	path = hades_fachwerk
+	url = https://github.com/sfence/fachwerk
+	branch = sfence_hades_revisited
