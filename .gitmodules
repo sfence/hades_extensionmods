@@ -38,3 +38,15 @@
 	path = hades_fachwerk
 	url = https://github.com/sfence/fachwerk
 	branch = sfence_hades_revisited
+[submodule "hades_castle_masonry"]
+	path = hades_castle_masonry
+	url = https://github.com/sfence/castle_masonry.git
+[submodule "hades_castle_gates"]
+	path = hades_castle_gates
+	url = https://github.com/sfence/castle_gates.git
+[submodule "hades_castle_lighting"]
+	path = hades_castle_lighting
+	url = https://github.com/sfence/castle_lighting.git
+[submodule "hades_rocks"]
+	path = hades_rocks
+	url = https://github.com/sfence/rocks.git
