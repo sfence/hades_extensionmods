@@ -50,3 +50,6 @@
 [submodule "hades_rocks"]
 	path = hades_rocks
 	url = https://github.com/sfence/rocks.git
+[submodule "hades_boost_cart"]
+	path = hades_boost_cart
+	url = https://github.com/sfence/boost_cart.git
