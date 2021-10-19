@@ -53,3 +53,6 @@
 [submodule "hades_boost_cart"]
 	path = hades_boost_cart
 	url = https://github.com/sfence/boost_cart.git
+[submodule "hades_extravessels"]
+	path = hades_extravessels
+	url = https://github.com/sfence/hades_extravessels.git
