@@ -16,9 +16,6 @@
 [submodule "hades_digtron"]
 	path = hades_digtron
 	url = https://github.com/sfence/digtron.git
-[submodule "hades_appliances"]
-	path = hades_appliances
-	url = https://github.com/sfence/appliances.git
 [submodule "hades_horse"]
 	path = hades_horse
 	url = https://github.com/sfence/mob_horse.git
@@ -56,3 +53,6 @@
 [submodule "hades_extravessels"]
 	path = hades_extravessels
 	url = https://github.com/sfence/hades_extravessels.git
+[submodule "hades_moretools"]
+	path = hades_moretools
+	url = https://github.com/sfence/moretools.git
