@@ -56,6 +56,3 @@
 [submodule "hades_moretools"]
 	path = hades_moretools
 	url = https://github.com/sfence/moretools.git
-[submodule "hades_extramaterials"]
-	path = hades_extramaterials
-	url = https://github.com/sfence/hades_extramaterials.git
